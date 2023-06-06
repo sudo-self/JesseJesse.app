@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.webcatalog.juli.custom-1686029864362.helper</string>
+    <key>CFBundleName</key>
+    <string>JesseJesse Helper (GPU)</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>DTSDKBuild</key>
+    <string>22C55</string>
+    <key>DTSDKName</key>
+    <string>macosx13.1</string>
+    <key>DTXcode</key>
+    <string>1420</string>
+    <key>DTXcodeBuild</key>
+    <string>14C18</string>
+    <key>LSEnvironment</key>
+    <dict>
+      <key>MallocNanoZone</key>
+      <string>0</string>
+    </dict>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>CFBundleDisplayName</key>
+    <string>JesseJesse Helper (GPU)</string>
+    <key>CFBundleExecutable</key>
+    <string>JesseJesse Helper (GPU)</string>
+    <key>CFBundleVersion</key>
+    <string>33.5.1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>33.5.1</string>
+  </dict>
+</plist>
